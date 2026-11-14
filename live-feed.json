@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T22:34:37.931Z",
+  "fetchedAt": "2026-11-14T22:53:21.258Z",
   "news": [
     {
       "id": "2873fac0e619",
@@ -15,5 +15,160 @@
     }
   ],
   "drops": [],
-  "moves": []
+  "moves": [
+    {
+      "id": "2f1bf7f73583",
+      "title": "Skorge #477",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Skorge%20477",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $33.00 · was $20.50 · up 61%",
+      "popId": "gears-of-war-skorge-477"
+    },
+    {
+      "id": "c53940a95fad",
+      "title": "Ned #134",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Ned%20134",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $160.00 · was $100.00 · up 60%",
+      "popId": "ned-ned-134"
+    },
+    {
+      "id": "75912b28f4a4",
+      "title": "Glinda In Bubble Gown #1697",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Glinda%20In%20Bubble%20Gown%201697",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $16.64 · was $10.97 · up 52%",
+      "popId": "wicked-glinda-in-bubble-gown-1697"
+    },
+    {
+      "id": "20b7f9607935",
+      "title": "Roger Rabbit - Jessica Rabbit #104",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Roger%20Rabbit%20-%20Jessica%20Rabbit%20104",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $80.00 · was $55.00 · up 45%",
+      "popId": "funko-com-roger-rabbit-jessica-rabbit-3550"
+    },
+    {
+      "id": "04243667ab73",
+      "title": "Vegeta (Powering Up) #713 GITD",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Vegeta%20(Powering%20Up)%20713",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $21.99 · was $16.00 · up 37%",
+      "popId": "dragon-ball-super-vegeta-powering-up-713"
+    },
+    {
+      "id": "db7d8898430c",
+      "title": "Red Reddington #392",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Red%20Reddington%20392",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $81.00 · was $60.48 · up 34%",
+      "popId": "blacklist-red-reddington-392"
+    },
+    {
+      "id": "5d2537da9c85",
+      "title": "Polaris #927 NYCC GITD",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Polaris%20927",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $13.50 · was $34.00 · down 60%",
+      "popId": "x-men-polaris-927"
+    },
+    {
+      "id": "de2110fd46af",
+      "title": "Caesar Clown #1584",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Caesar%20Clown%201584",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $20.00 · was $49.99 · down 60%",
+      "popId": "one-piece-caesar-clown-1584"
+    },
+    {
+      "id": "b6c898e801e5",
+      "title": "Jonathan #513",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Jonathan%20513",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $20.00 · was $43.69 · down 54%",
+      "popId": "stranger-things-jonathan-513"
+    },
+    {
+      "id": "cb59d6aabdc4",
+      "title": "Max At Cemetery #1544",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Max%20At%20Cemetery%201544",
+      "source": "eBay ask",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "deal",
+      "detail": "eBay ask $17.59 (not sold) · sold median $69.96",
+      "popId": "stranger-things-max-at-cemetery-1544"
+    },
+    {
+      "id": "66585c08a70a",
+      "title": "Phantom Chucky #1721",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Phantom%20Chucky%201721",
+      "source": "eBay ask",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "deal",
+      "detail": "eBay ask $2.49 (not sold) · sold median $9.99",
+      "popId": "chucky-phantom-chucky-1721"
+    },
+    {
+      "id": "0b214cf427e8",
+      "title": "Yahaba #1410",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Yahaba%201410",
+      "source": "eBay ask",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "deal",
+      "detail": "eBay ask $2.00 (not sold) · sold median $7.97",
+      "popId": "demon-slayer-yahaba-1410"
+    },
+    {
+      "id": "14d5813a54a9",
+      "title": "Batman First Appearance #270",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Batman%20First%20Appearance%20270",
+      "source": "eBay ask",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "deal",
+      "detail": "eBay ask $3.49 (not sold) · sold median $13.79",
+      "popId": "funko-com-batman-first-appearance-37214"
+    },
+    {
+      "id": "ba5134bb5770",
+      "title": "Doctor Strange Supreme #874",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Doctor%20Strange%20Supreme%20874",
+      "source": "eBay ask",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "kind": "deal",
+      "detail": "eBay ask $2.27 (not sold) · sold median $9.00",
+      "popId": "funko-com-doctor-strange-supreme-55815"
+    }
+  ]
 }
