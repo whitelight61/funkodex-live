@@ -1,0 +1,40 @@
+{
+  "updatedAt": "2026-11-15T06:33:32.650Z",
+  "items": [
+    {
+      "id": "9e95fb2baf4e",
+      "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",
+      "url": "https://comiccrusaders.com/collectibles/funko-space-jam-michael-jordan-pop-movies-2026/",
+      "source": "Comic Crusaders",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko’s new Pop! Movies Space Jam Michael Jordan figure puts the star in his Tune Squad uniform, mid-air for the game-winning shot. The 4.6-inch vinyl is $14.99 and is listed on Funko.com as a pre-order shipping November 24, 2026, for the film’s 30th anniversary.",
+      "verified_by": [
+        "https://funko.com/pop-michael-jordan-tune-squad-uniform/97832.html",
+        "https://www.actionfigureinsider.com/funko-x-space-jam-michael-jordan/"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "a5df11280378",
+      "title": "Funko’s Professor Pyg GameStop exclusive arrives in the classic black apron",
+      "url": "https://collectiblz.com/news/2026/11/12/professor-pyg-batman-gamestop-exclusive-funko-pop",
+      "source": "Collectiblz",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "summary": "The Batman Professor Pyg GameStop exclusive dropped at midnight PST on November 11, limited to 9,500 pieces at $19.99, wearing the classic black butcher’s apron and red tie. ComicBook.com independently listed the same November 11 GameStop exclusive, price, and 9,500-piece limit.",
+      "verified_by": [
+        "https://comicbook.com/crate/funko-pop-november-2026-releases/"
+      ],
+      "origin": "web"
+    }
+  ]
+}

@@ -1,9 +1,33 @@
 {
-  "fetchedAt": "2026-11-15T05:35:34.343Z",
+  "fetchedAt": "2026-11-15T06:34:49.867Z",
   "news": [
     {
+      "id": "9e95fb2baf4e",
+      "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",
+      "url": "https://comiccrusaders.com/collectibles/funko-space-jam-michael-jordan-pop-movies-2026/",
+      "source": "Comic Crusaders",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "a5df11280378",
+      "title": "Funko’s Professor Pyg GameStop exclusive arrives in the classic black apron",
+      "url": "https://collectiblz.com/news/2026/11/12/professor-pyg-batman-gamestop-exclusive-funko-pop",
+      "source": "Collectiblz",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
       "id": "727e3687d4a1",
-      "title": "5 insightful analyst questions from Funko\u2019s Q3 2026 earnings call",
+      "title": "5 insightful analyst questions from Funko’s Q3 2026 earnings call",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-funko-025336351.html?.tsrc=rss",
       "source": "Yahoo Finance",
       "publishedAt": "2026-11-11T02:53:36.000Z",
@@ -15,7 +39,7 @@
     },
     {
       "id": "73bcc2067d18",
-      "title": "Netflix\u2019s Cyberpunk: Edgerunners II goes Pop! with new figures from Funko",
+      "title": "Netflix’s Cyberpunk: Edgerunners II goes Pop! with new figures from Funko",
       "url": "https://www.flickeringmyth.com/netflixs-cyberpunk-edgerunners-ii-goes-pop-with-new-figures-from-funko/",
       "source": "Flickering Myth",
       "publishedAt": "2026-11-09T13:22:49.000Z",
@@ -74,20 +98,8 @@
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/977302ae35880650.jpg"
     },
     {
-      "id": "d12c485b943d",
-      "title": "Funko Non-GAAP EPS of $0.16 beats by $0.06, revenue of $258.3M beats by $9.36M",
-      "url": "https://seekingalpha.com/symbol/FNKO/news?source=feed_symbol_FNKO",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-11-05T22:25:09.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/6a7bbb059099b153.jpg"
-    },
-    {
       "id": "2873fac0e619",
-      "title": "Funko\u2019s Core Collectibles Lead Q3 Growth as Loungefly Gets Leaner",
+      "title": "Funko’s Core Collectibles Lead Q3 Growth as Loungefly Gets Leaner",
       "url": "https://toybook.com/funko-q3-2026-earnings/",
       "source": "The Toy Book",
       "publishedAt": "2026-11-05T21:45:03.000Z",
@@ -111,7 +123,7 @@
     },
     {
       "id": "d256b2035714",
-      "title": "Prince Adam, Teela and Skeletor join Funko\u2019s Masters of the Universe Pop! Comics line with new vinyl figures",
+      "title": "Prince Adam, Teela and Skeletor join Funko’s Masters of the Universe Pop! Comics line with new vinyl figures",
       "url": "https://www.flickeringmyth.com/prince-adam-teela-and-skeletor-join-funkos-masters-of-the-universe-pop-comics-line-with-new-vinyl-figures/",
       "source": "Flickering Myth",
       "publishedAt": "2026-11-03T23:59:23.000Z",
@@ -135,7 +147,7 @@
     },
     {
       "id": "bb91922c80e7",
-      "title": "Funko\u2019s Avengers: Doomsday Pop! collection adds Bucky, Beast, Nightcrawler and Doctor Doom with Franklin",
+      "title": "Funko’s Avengers: Doomsday Pop! collection adds Bucky, Beast, Nightcrawler and Doctor Doom with Franklin",
       "url": "https://www.flickeringmyth.com/funkos-avengers-doomsday-pop-collection-adds-bucky-beast-nightcrawler-and-doctor-doom-with-franklin/",
       "source": "Flickering Myth",
       "publishedAt": "2026-10-18T15:15:51.000Z",
@@ -146,161 +158,186 @@
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/5c71ab4de14c5ae4.jpg"
     }
   ],
-  "drops": [],
+  "drops": [
+    {
+      "id": "9e95fb2baf4e",
+      "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",
+      "url": "https://comiccrusaders.com/collectibles/funko-space-jam-michael-jordan-pop-movies-2026/",
+      "source": "Comic Crusaders",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "a5df11280378",
+      "title": "Funko’s Professor Pyg GameStop exclusive arrives in the classic black apron",
+      "url": "https://collectiblz.com/news/2026/11/12/professor-pyg-batman-gamestop-exclusive-funko-pop",
+      "source": "Collectiblz",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    }
+  ],
   "moves": [
     {
-      "id": "6e78d9672251",
-      "title": "Abed Nadir #838",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Abed%20Nadir%20838",
+      "id": "2f1bf7f73583",
+      "title": "Skorge #477",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Skorge%20477",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $69.95 \u00b7 was $40.00 \u00b7 up 75%",
-      "popId": "community-abed-nadir-838"
+      "detail": "Sold median $33.00 · was $20.50 · up 61%",
+      "popId": "gears-of-war-skorge-477"
     },
     {
-      "id": "6f46728a4bcd",
-      "title": "Kento Nanami #2129",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Kento%20Nanami%202129",
+      "id": "c53940a95fad",
+      "title": "Ned #134",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Ned%20134",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $57.48 \u00b7 was $36.00 \u00b7 up 60%",
-      "popId": "jujutsu-kaisen-kento-nanami-2129"
+      "detail": "Sold median $160.00 · was $100.00 · up 60%",
+      "popId": "ned-ned-134"
     },
     {
-      "id": "ee325974250b",
-      "title": "Lucy (Witch Costume) #332",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Lucy%20(Witch%20Costume)%20332",
+      "id": "75912b28f4a4",
+      "title": "Glinda In Bubble Gown #1697",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Glinda%20In%20Bubble%20Gown%201697",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $64.99 \u00b7 was $42.50 \u00b7 up 53%",
-      "popId": "television-lucy-witch-costume-332"
+      "detail": "Sold median $16.64 · was $10.97 · up 52%",
+      "popId": "wicked-glinda-in-bubble-gown-1697"
     },
     {
-      "id": "49322ac019c9",
-      "title": "Cyclops #58",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Cyclops%2058",
+      "id": "20b7f9607935",
+      "title": "Roger Rabbit - Jessica Rabbit #104",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Roger%20Rabbit%20-%20Jessica%20Rabbit%20104",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $49.95 \u00b7 was $32.98 \u00b7 up 51%",
-      "popId": "marvel-universe-series-4-cyclops-58"
+      "detail": "Sold median $80.00 · was $55.00 · up 45%",
+      "popId": "funko-com-roger-rabbit-jessica-rabbit-3550"
     },
     {
-      "id": "c3b66ce99448",
-      "title": "AHS Season 5 - The Countess #342",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20AHS%20Season%205%20-%20The%20Countess%20342",
+      "id": "04243667ab73",
+      "title": "Vegeta (Powering Up) #713 GITD",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Vegeta%20(Powering%20Up)%20713",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $60.00 \u00b7 was $40.00 \u00b7 up 50%",
-      "popId": "funko-com-ahs-season-5-the-countess-9137"
+      "detail": "Sold median $21.99 · was $16.00 · up 37%",
+      "popId": "dragon-ball-super-vegeta-powering-up-713"
     },
     {
-      "id": "b29fad6222a7",
-      "title": "Roronoa Zoro (Wanted) #2124",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Roronoa%20Zoro%20(Wanted)%202124",
+      "id": "db7d8898430c",
+      "title": "Red Reddington #392",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Red%20Reddington%20392",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $58.67 \u00b7 was $40.00 \u00b7 up 47%",
-      "popId": "one-piece-roronoa-zoro-wanted-2124"
+      "detail": "Sold median $81.00 · was $60.48 · up 34%",
+      "popId": "blacklist-red-reddington-392"
     },
     {
-      "id": "1baf861c56af",
-      "title": "Goku (Ultra Instinct -Sign-) #1232 NYCC",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Goku%20(Ultra%20Instinct%20-Sign-)%201232",
+      "id": "5d2537da9c85",
+      "title": "Polaris #927 NYCC GITD",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Polaris%20927",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $20.00 \u00b7 was $36.50 \u00b7 down 45%",
-      "popId": "dragon-ball-super-goku-ultra-instinct-sign-1232"
+      "detail": "Sold median $13.50 · was $34.00 · down 60%",
+      "popId": "x-men-polaris-927"
     },
     {
-      "id": "aea8a9e4664f",
-      "title": "Loki #1244",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Loki%201244",
+      "id": "de2110fd46af",
+      "title": "Caesar Clown #1584",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Caesar%20Clown%201584",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $21.50 \u00b7 was $36.99 \u00b7 down 42%",
-      "popId": "persona-5-royal-loki-1244"
+      "detail": "Sold median $20.00 · was $49.99 · down 60%",
+      "popId": "one-piece-caesar-clown-1584"
     },
     {
-      "id": "6a352f54a37b",
-      "title": "Loot #1234 SDCC",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Loot%201234",
+      "id": "b6c898e801e5",
+      "title": "Jonathan #513",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Jonathan%20513",
       "source": "eBay sold",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $22.50 \u00b7 was $37.86 \u00b7 down 41%",
-      "popId": "magic-the-gathering-loot-1234"
+      "detail": "Sold median $20.00 · was $43.69 · down 54%",
+      "popId": "stranger-things-jonathan-513"
     },
     {
-      "id": "7a88e6b8a393",
-      "title": "Michael Jackson (Superbowl) #346",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Michael%20Jackson%20(Superbowl)%20346",
+      "id": "cb59d6aabdc4",
+      "title": "Max At Cemetery #1544",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Max%20At%20Cemetery%201544",
       "source": "eBay ask",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $9.00 (not sold) \u00b7 sold median $35.00",
-      "popId": "michael-jackson-michael-jackson-superbowl-346"
+      "detail": "eBay ask $17.59 (not sold) · sold median $69.96",
+      "popId": "stranger-things-max-at-cemetery-1544"
     },
     {
-      "id": "a0d4141eb92b",
-      "title": "Naruto Uzumaki #1189",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Naruto%20Uzumaki%201189",
+      "id": "66585c08a70a",
+      "title": "Phantom Chucky #1721",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Phantom%20Chucky%201721",
       "source": "eBay ask",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $13.99 (not sold) \u00b7 sold median $49.99",
-      "popId": "boruto-naruto-next-generations-naruto-uzumaki-1189"
+      "detail": "eBay ask $2.49 (not sold) · sold median $9.99",
+      "popId": "chucky-phantom-chucky-1721"
     },
     {
-      "id": "1d024eb785ab",
-      "title": "\"Sawyer\" James Ford #416",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20%22Sawyer%22%20James%20Ford%20416",
+      "id": "0b214cf427e8",
+      "title": "Yahaba #1410",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Yahaba%201410",
       "source": "eBay ask",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $15.00 (not sold) \u00b7 sold median $52.00",
-      "popId": "lost-sawyer-james-ford-416"
+      "detail": "eBay ask $2.00 (not sold) · sold median $7.97",
+      "popId": "demon-slayer-yahaba-1410"
     },
     {
-      "id": "609c7783e1a1",
-      "title": "X-Men - Emma Frost #184",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20X-Men%20-%20Emma%20Frost%20184",
+      "id": "14d5813a54a9",
+      "title": "Batman First Appearance #270",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Batman%20First%20Appearance%20270",
       "source": "eBay ask",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $14.06 (not sold) \u00b7 sold median $45.00",
-      "popId": "funko-com-x-men-emma-frost-11198-PX-1L5"
+      "detail": "eBay ask $3.49 (not sold) · sold median $13.79",
+      "popId": "funko-com-batman-first-appearance-37214"
     },
     {
-      "id": "add85fbb303d",
-      "title": "Darth Maul #410",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Darth%20Maul%20410",
+      "id": "ba5134bb5770",
+      "title": "Doctor Strange Supreme #874",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Doctor%20Strange%20Supreme%20874",
       "source": "eBay ask",
-      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $4.00 (not sold) \u00b7 sold median $12.98",
-      "popId": "star-wars-darth-maul-410"
+      "detail": "eBay ask $2.27 (not sold) · sold median $9.00",
+      "popId": "funko-com-doctor-strange-supreme-55815"
     }
   ]
 }
