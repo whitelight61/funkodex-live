@@ -1,6 +1,54 @@
 {
-  "fetchedAt": "2026-11-15T23:09:22.072Z",
+  "fetchedAt": "2026-11-15T23:11:07.817Z",
   "news": [
+    {
+      "id": "a010c5d07582",
+      "title": "Funko's KPop Demon Hunters Pop! Mystery 6-pack puts the Saja Boys in blind boxes",
+      "url": "https://collectiblz.com/news/2026/11/13/kpop-demon-hunters-mystery-6-pack-saja-boys",
+      "source": "Collectiblz",
+      "publishedAt": "2026-11-13T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "1dcaf3b6f3ab",
+      "title": "Funko's next Hazbin Hotel wave brings Adam, Vox, Husk, Niffty and Emily",
+      "url": "https://www.blog-multimediashop.be/2026/11/14/%f0%9f%94%a5%f0%9f%8f%a8-bienvenue-en-enfer-la-nouvelle-vague-funko-pop-hazbin-hotel-debarque-en-fevrier-%f0%9f%98%88%f0%9f%93%ba/",
+      "source": "Multimedia Shop",
+      "publishedAt": "2026-11-13T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "1df361fe3ffa",
+      "title": "Dunk and Egg from A Knight of the Seven Kingdoms get Funko Pop! figures",
+      "url": "https://collider.com/a-knight-of-the-seven-kingdoms-dunk-egg-funko-pops/",
+      "source": "Collider",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "92d8b158c086",
+      "title": "Entertainment Earth opens pre-orders for an exclusive flocked Gizmo Pop!",
+      "url": "https://www.allhallowsgeek.com/entertainment-earth-opens-pre-orders-for-exclusive-flocked-gizmo-funko-pop/",
+      "source": "All Hallows Geek",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "9e95fb2baf4e",
       "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",
@@ -159,6 +207,30 @@
     }
   ],
   "drops": [
+    {
+      "id": "a010c5d07582",
+      "title": "Funko's KPop Demon Hunters Pop! Mystery 6-pack puts the Saja Boys in blind boxes",
+      "url": "https://collectiblz.com/news/2026/11/13/kpop-demon-hunters-mystery-6-pack-saja-boys",
+      "source": "Collectiblz",
+      "publishedAt": "2026-11-13T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "92d8b158c086",
+      "title": "Entertainment Earth opens pre-orders for an exclusive flocked Gizmo Pop!",
+      "url": "https://www.allhallowsgeek.com/entertainment-earth-opens-pre-orders-for-exclusive-flocked-gizmo-funko-pop/",
+      "source": "All Hallows Geek",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "9e95fb2baf4e",
       "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",

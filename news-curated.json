@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-11-15T06:33:32.650Z",
+  "updatedAt": "2026-11-15T13:31:30.088Z",
   "items": [
+    {
+      "id": "a010c5d07582",
+      "title": "Funko's KPop Demon Hunters Pop! Mystery 6-pack puts the Saja Boys in blind boxes",
+      "url": "https://collectiblz.com/news/2026/11/13/kpop-demon-hunters-mystery-6-pack-saja-boys",
+      "source": "Collectiblz",
+      "publishedAt": "2026-11-13T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "summary": "The $89.99 Pop! Mystery KPop Demon Hunters 6-pack includes blind-boxed Jinu, Abby, Baby, Mystery, Romance and Crying Demon with Pop! cards, a 1-in-72 Mystery Chase and a 1-of-1 Worldwide Chase.",
+      "verified_by": [
+        "https://funko.com/pop-mystery-kpop-demon-hunters-6-pack/96234.html"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "1dcaf3b6f3ab",
+      "title": "Funko's next Hazbin Hotel wave brings Adam, Vox, Husk, Niffty and Emily",
+      "url": "https://www.blog-multimediashop.be/2026/11/14/%f0%9f%94%a5%f0%9f%8f%a8-bienvenue-en-enfer-la-nouvelle-vague-funko-pop-hazbin-hotel-debarque-en-fevrier-%f0%9f%98%88%f0%9f%93%ba/",
+      "source": "Multimedia Shop",
+      "publishedAt": "2026-11-13T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko teased a new Hazbin Hotel collection on X. Funko.com lists Pop! Adam (Winner Archangel) with a chance of chase, Vox, Husk and Niffty as coming soon, plus a web-exclusive Emily (Seraphim Angel), each $14.99.",
+      "verified_by": [
+        "https://funko.com/fandoms/movies-tv/animated-tv/hazbin-hotel/",
+        "https://x.com/OriginalFunko/status/2121317321012613584"
+      ],
+      "origin": "x"
+    },
+    {
+      "id": "1df361fe3ffa",
+      "title": "Dunk and Egg from A Knight of the Seven Kingdoms get Funko Pop! figures",
+      "url": "https://collider.com/a-knight-of-the-seven-kingdoms-dunk-egg-funko-pops/",
+      "source": "Collider",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's new Pop! figures of Ser Duncan the Tall and Egg from HBO's A Knight of the Seven Kingdoms are up for pre-order at Entertainment Earth for about $15 each.",
+      "verified_by": [
+        "https://www.hobbyconsolas.com/hobbycine/figuras-funko-pop-caballero-los-siete-reinos_7060674_1.html"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "92d8b158c086",
+      "title": "Entertainment Earth opens pre-orders for an exclusive flocked Gizmo Pop!",
+      "url": "https://www.allhallowsgeek.com/entertainment-earth-opens-pre-orders-for-exclusive-flocked-gizmo-funko-pop/",
+      "source": "All Hallows Geek",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "summary": "Entertainment Earth's exclusive Gremlins Gizmo Pop! has flocked fur, stands about 3.5 inches tall, costs $16.99 and is estimated to arrive in January 2027.",
+      "verified_by": [
+        "https://www.entertainmentearth.com/product/gremlins-gizmo-flocked-funko-pop-vinyl-figure-entertainment-earth-exclusive/fugg96762ee"
+      ],
+      "origin": "web"
+    },
     {
       "id": "9e95fb2baf4e",
       "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",
