@@ -1,6 +1,18 @@
 {
-  "fetchedAt": "2026-11-16T05:26:32.895Z",
+  "fetchedAt": "2026-11-16T14:48:46.144Z",
   "news": [
+    {
+      "id": "aea0ac2d9fd6",
+      "title": "Funko and Loungefly kick off a Black Friday sale with up to 70% off through Nov. 29",
+      "url": "https://collectors-junkies.com/black-friday-bei-funko-und-loungefly-mit-bis-zu-70-rabatt/",
+      "source": "Collectors-Junkies",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "a010c5d07582",
       "title": "Funko's KPop Demon Hunters Pop! Mystery 6-pack puts the Saja Boys in blind boxes",
@@ -24,6 +36,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/16a25a0abfca14fe.jpg"
+    },
+    {
+      "id": "07ada5fe0a2f",
+      "title": "Plastic Empire opens pre-orders for an exclusive glow-in-the-dark Doc Brown & Einstein Pop!",
+      "url": "https://pop-figures.com/news/back-to-the-future-this-pop-knows-exactly-what-10-04-means-1024",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-13T11:10:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "1df361fe3ffa",
@@ -220,6 +244,18 @@
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/6906fbb0b67b156d.jpg"
     },
     {
+      "id": "07ada5fe0a2f",
+      "title": "Plastic Empire opens pre-orders for an exclusive glow-in-the-dark Doc Brown & Einstein Pop!",
+      "url": "https://pop-figures.com/news/back-to-the-future-this-pop-knows-exactly-what-10-04-means-1024",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-13T11:10:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
       "id": "92d8b158c086",
       "title": "Entertainment Earth opens pre-orders for an exclusive flocked Gizmo Pop!",
       "url": "https://www.allhallowsgeek.com/entertainment-earth-opens-pre-orders-for-exclusive-flocked-gizmo-funko-pop/",
@@ -258,22 +294,11 @@
   ],
   "moves": [
     {
-      "id": "2f1bf7f73583",
-      "title": "Skorge #477",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Skorge%20477",
-      "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
-      "image": null,
-      "kind": "move",
-      "detail": "Sold median $33.00 · was $20.50 · up 61%",
-      "popId": "gears-of-war-skorge-477"
-    },
-    {
       "id": "c53940a95fad",
       "title": "Ned #134",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Ned%20134",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
       "detail": "Sold median $160.00 · was $100.00 · up 60%",
@@ -284,62 +309,62 @@
       "title": "Glinda In Bubble Gown #1697",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Glinda%20In%20Bubble%20Gown%201697",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
       "detail": "Sold median $16.64 · was $10.97 · up 52%",
       "popId": "wicked-glinda-in-bubble-gown-1697"
     },
     {
-      "id": "04243667ab73",
-      "title": "Vegeta (Powering Up) #713 GITD",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Vegeta%20(Powering%20Up)%20713",
+      "id": "40f346e0d8ac",
+      "title": "Gus Fring (Dead) #167",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Gus%20Fring%20(Dead)%20167",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $21.99 · was $16.00 · up 37%",
-      "popId": "dragon-ball-super-vegeta-powering-up-713"
+      "detail": "Sold median $117.00 · was $80.00 · up 46%",
+      "popId": "breaking-bad-gus-fring-dead-167"
     },
     {
-      "id": "db7d8898430c",
-      "title": "Red Reddington #392",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Red%20Reddington%20392",
+      "id": "e2641fdbee93",
+      "title": "Big Trouble in Little China-Jack Burton #151",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Big%20Trouble%20in%20Little%20China-Jack%20Burton%20151",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $81.00 · was $60.48 · up 34%",
-      "popId": "blacklist-red-reddington-392"
+      "detail": "Sold median $115.00 · was $79.99 · up 44%",
+      "popId": "funko-com-big-trouble-in-little-china-jack-burton-4804"
     },
     {
-      "id": "de5e1902dbcc",
-      "title": "Scarlet Witch #1328",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Scarlet%20Witch%201328",
+      "id": "76c278086dee",
+      "title": "M. Bison #1232 SDCC",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20M.%20Bison%201232",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $79.98 · was $59.50 · up 34%",
-      "popId": "marvel-universe-scarlet-witch-1328"
+      "detail": "Sold median $85.00 · was $60.00 · up 42%",
+      "popId": "street-fighter-m-bison-1232"
     },
     {
-      "id": "de2110fd46af",
-      "title": "Caesar Clown #1584",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Caesar%20Clown%201584",
+      "id": "cb602f74f159",
+      "title": "Jackie #1450",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Jackie%201450",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $20.00 · was $49.99 · down 60%",
-      "popId": "one-piece-caesar-clown-1584"
+      "detail": "Sold median $118.00 · was $85.00 · up 39%",
+      "popId": "yellowjackets-jackie-1450"
     },
     {
       "id": "b6c898e801e5",
       "title": "Jonathan #513",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Jonathan%20513",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
       "detail": "Sold median $20.00 · was $43.69 · down 54%",
@@ -350,29 +375,62 @@
       "title": "Soldier Boy #1407",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Soldier%20Boy%201407",
       "source": "eBay sold",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "move",
       "detail": "Sold median $25.98 · was $52.50 · down 51%",
       "popId": "the-boys-soldier-boy-1407"
     },
     {
+      "id": "f05f7d4595d0",
+      "title": "Tattler Twins #242",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Tattler%20Twins%20242",
+      "source": "eBay sold",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "image": null,
+      "kind": "move",
+      "detail": "Sold median $20.00 · was $36.50 · down 45%",
+      "popId": "american-horror-story-freak-show-tattler-twins-242"
+    },
+    {
       "id": "cb59d6aabdc4",
       "title": "Max At Cemetery #1544",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Max%20At%20Cemetery%201544",
       "source": "eBay ask",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "deal",
       "detail": "eBay ask $17.59 (not sold) · sold median $69.96",
       "popId": "stranger-things-max-at-cemetery-1544"
     },
     {
+      "id": "0885621f0b25",
+      "title": "Altaïr #901",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Alta%C3%AFr%20901",
+      "source": "eBay ask",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "image": null,
+      "kind": "deal",
+      "detail": "eBay ask $16.49 (not sold) · sold median $66.00",
+      "popId": "assassin-s-creed-altair-901"
+    },
+    {
+      "id": "9a32608225ad",
+      "title": "Alexa Bliss #107",
+      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Alexa%20Bliss%20107",
+      "source": "eBay ask",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
+      "image": null,
+      "kind": "deal",
+      "detail": "eBay ask $3.00 (not sold) · sold median $11.88",
+      "popId": "funko-com-alexa-bliss-61464"
+    },
+    {
       "id": "66585c08a70a",
       "title": "Phantom Chucky #1721",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Phantom%20Chucky%201721",
       "source": "eBay ask",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "deal",
       "detail": "eBay ask $2.49 (not sold) · sold median $9.99",
@@ -383,33 +441,11 @@
       "title": "Yahaba #1410",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Yahaba%201410",
       "source": "eBay ask",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
+      "publishedAt": "2026-11-16T17:00:00.000Z",
       "image": null,
       "kind": "deal",
       "detail": "eBay ask $2.00 (not sold) · sold median $7.97",
       "popId": "demon-slayer-yahaba-1410"
-    },
-    {
-      "id": "14d5813a54a9",
-      "title": "Batman First Appearance #270",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Batman%20First%20Appearance%20270",
-      "source": "eBay ask",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
-      "image": null,
-      "kind": "deal",
-      "detail": "eBay ask $3.49 (not sold) · sold median $13.79",
-      "popId": "funko-com-batman-first-appearance-37214"
-    },
-    {
-      "id": "ba5134bb5770",
-      "title": "Doctor Strange Supreme #874",
-      "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Doctor%20Strange%20Supreme%20874",
-      "source": "eBay ask",
-      "publishedAt": "2026-11-15T17:00:00.000Z",
-      "image": null,
-      "kind": "deal",
-      "detail": "eBay ask $2.27 (not sold) · sold median $9.00",
-      "popId": "funko-com-doctor-strange-supreme-55815"
     }
   ]
 }
