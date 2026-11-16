@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-15T13:31:30.088Z",
+  "updatedAt": "2026-11-16T13:36:56.536Z",
   "items": [
+    {
+      "id": "aea0ac2d9fd6",
+      "title": "Funko and Loungefly kick off a Black Friday sale with up to 70% off through Nov. 29",
+      "url": "https://collectors-junkies.com/black-friday-bei-funko-und-loungefly-mit-bis-zu-70-rabatt/",
+      "source": "Collectors-Junkies",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko.com and Loungefly.com are running a Black Friday sale with up to 70% off marked items from Nov. 16 through Nov. 29, 2026. Pre-orders and limited edition items are excluded.",
+      "verified_by": [
+        "https://funko.com/gg/terms-and-conditions/Black-Friday-Sale.html",
+        "https://funko.com/promotions/black-friday-deals/"
+      ],
+      "origin": "web"
+    },
     {
       "id": "a010c5d07582",
       "title": "Funko's KPop Demon Hunters Pop! Mystery 6-pack puts the Saja Boys in blind boxes",
@@ -35,6 +53,24 @@
         "https://x.com/OriginalFunko/status/2121317321012613584"
       ],
       "origin": "x"
+    },
+    {
+      "id": "07ada5fe0a2f",
+      "title": "Plastic Empire opens pre-orders for an exclusive glow-in-the-dark Doc Brown & Einstein Pop!",
+      "url": "https://pop-figures.com/news/back-to-the-future-this-pop-knows-exactly-what-10-04-means-1024",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-13T11:10:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "summary": "Plastic Empire's Back to the Future Plutonium Glow Doc Brown & Einstein Pop! & Buddy went up for pre-order on Nov. 12 at 10:04 PM ET for $19.99, with fewer than 5,000 available; a $249 Christopher Lloyd-signed, JSA-authenticated Signature Series was offered for 88 hours. Estimated shipping is December to January.",
+      "verified_by": [
+        "https://www.plasticempire.com/blogs/news/plastic-empire-exclusive-plutonium-doc-brown-einstein-release-info",
+        "https://www.plasticempire.com/products/funko-pop-signed-plutonium-doc-brown-einstein-gld-back-to-the-future-plastic-empire-exclusive-2190-jsa-authenticated-christopher-lloyd-autograph-pre-order"
+      ],
+      "origin": "web"
     },
     {
       "id": "1df361fe3ffa",
