@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T13:36:56.536Z",
+  "updatedAt": "2026-11-17T13:41:52.493Z",
   "items": [
     {
       "id": "aea0ac2d9fd6",
@@ -16,6 +16,25 @@
       "verified_by": [
         "https://funko.com/gg/terms-and-conditions/Black-Friday-Sale.html",
         "https://funko.com/promotions/black-friday-deals/"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "44dc93d3a981",
+      "title": "Funko slots new Infinity Saga Pops of Tony Stark, Steve Rogers and Bucky between its Avengers: Doomsday waves",
+      "url": "https://pop-figures.com/news/marvel-these-pops-of-the-past-were-numbered-with-doomsday-1026",
+      "source": "POP! Figures",
+      "publishedAt": "2026-11-14T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "New Marvel Infinity Saga Pops numbered #1671-#1674, including Steve Rogers (Chopping Wood) #1671, Tony Stark (Nanotech Suit) #1672 and Bucky #1673, sit right next to the Avengers: Doomsday Pop! waves ahead of the film's December release.",
+      "verified_by": [
+        "https://funko.com/pop-tony-stark-nanotech-suit/95960.html",
+        "https://funko.com/pop-steve-rogers-chopping-wood/93410.html",
+        "https://pop-figures.com/figure/1671-the-infinity-saga-steve-rogers-chopping-wood-19599"
       ],
       "origin": "web"
     },
@@ -138,6 +157,42 @@
       "summary": "The Batman Professor Pyg GameStop exclusive dropped at midnight PST on November 11, limited to 9,500 pieces at $19.99, wearing the classic black butcher’s apron and red tie. ComicBook.com independently listed the same November 11 GameStop exclusive, price, and 9,500-piece limit.",
       "verified_by": [
         "https://comicbook.com/crate/funko-pop-november-2026-releases/"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "ebbcd9a86f99",
+      "title": "Archer gets its first Funko Pop! wave: Sterling, Malory, Pam and Krieger",
+      "url": "https://pop-figures.com/news/archers-first-funko-pop-wave-found-the-wrong-agency-1021",
+      "source": "POP! Figures",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's debut Archer Pop! wave covers Sterling Archer, Malory Archer, Pam Poovey and Dr. Krieger as Pop! #2640-#2643, with two Chase variants including a black turtleneck Sterling.",
+      "verified_by": [
+        "https://funko.com/pop-dr.-krieger/96754.html",
+        "https://pop-figures.com/license/archer-1440"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "034828d6d73b",
+      "title": "Psyren gets its first Funko Pop! figures, led by the Drifters and Nemesis Q",
+      "url": "https://pop-figures.com/news/psyren-returns-to-funko-with-its-deadly-game-intact-1022",
+      "source": "POP! Figures",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's first Psyren Pop! Animation wave: Yoshina Ageha #2607, Amamiya Sakurako #2608 with a 1-in-6 sword Chase, Asaga Hiryu #2609, Kirisaki Kabuto #2610 and Nemesis Q #2611.",
+      "verified_by": [
+        "https://funko.com/pop-asaga-hiryu/94157.html",
+        "https://pop-figures.com/license/psyren-1441"
       ],
       "origin": "web"
     }
