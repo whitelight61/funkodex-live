@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T22:08:05.970Z",
+  "fetchedAt": "2026-11-18T06:29:40.031Z",
   "news": [
     {
       "id": "aea0ac2d9fd6",
@@ -132,6 +132,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/40140dfa4098f1a3.jpg"
+    },
+    {
+      "id": "30b2ae79e3a6",
+      "title": "Funko: Take Profits On The U.S. Sales Slippage (Rating Downgrade)",
+      "url": "https://seekingalpha.com/article/4969283-funko-take-profits-on-the-us-sales-slippage-downgrade?source=feed_symbol_FNKO",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-11-17T22:57:52.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "727e3687d4a1",
