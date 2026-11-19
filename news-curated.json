@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-17T13:41:52.493Z",
+  "updatedAt": "2026-11-19T13:32:42.313Z",
   "items": [
+    {
+      "id": "292758cd3dc1",
+      "title": "Entertainment Earth opens pre-orders for an exclusive Prisoner Bon Clay One Piece Pop!",
+      "url": "https://plastiqnews.com/pre-order-alert-funko-one-piece-prisoner-bon-clay-funko-pop-vinyl-figure-entertainment-earth-exclusive/",
+      "source": "Plastiq News",
+      "publishedAt": "2026-11-19T06:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Entertainment Earth opened pre-orders on Nov. 18 for a limited-edition exclusive One Piece Pop! of Bon Clay in his prison outfit, priced at $16.99 with an estimated January 2027 arrival.",
+      "verified_by": [
+        "https://www.entertainmentearth.com/product/one-piece-prisoner-bon-clay-funko-pop-vinyl-figure-entertainment-earth-exclusive/fu1p96771ee",
+        "https://funko.com/pop-bon-clay/96771.html"
+      ],
+      "origin": "web"
+    },
     {
       "id": "aea0ac2d9fd6",
       "title": "Funko and Loungefly kick off a Black Friday sale with up to 70% off through Nov. 29",
@@ -105,23 +123,6 @@
       "summary": "Funko's new Pop! figures of Ser Duncan the Tall and Egg from HBO's A Knight of the Seven Kingdoms are up for pre-order at Entertainment Earth for about $15 each.",
       "verified_by": [
         "https://www.hobbyconsolas.com/hobbycine/figuras-funko-pop-caballero-los-siete-reinos_7060674_1.html"
-      ],
-      "origin": "web"
-    },
-    {
-      "id": "92d8b158c086",
-      "title": "Entertainment Earth opens pre-orders for an exclusive flocked Gizmo Pop!",
-      "url": "https://www.allhallowsgeek.com/entertainment-earth-opens-pre-orders-for-exclusive-flocked-gizmo-funko-pop/",
-      "source": "All Hallows Geek",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "cover": null,
-      "kind": "exclusive",
-      "detail": null,
-      "popId": null,
-      "summary": "Entertainment Earth's exclusive Gremlins Gizmo Pop! has flocked fur, stands about 3.5 inches tall, costs $16.99 and is estimated to arrive in January 2027.",
-      "verified_by": [
-        "https://www.entertainmentearth.com/product/gremlins-gizmo-flocked-funko-pop-vinyl-figure-entertainment-earth-exclusive/fugg96762ee"
       ],
       "origin": "web"
     },
