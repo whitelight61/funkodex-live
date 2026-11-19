@@ -1,6 +1,18 @@
 {
-  "fetchedAt": "2026-11-19T13:18:42.300Z",
+  "fetchedAt": "2026-11-19T13:33:24.417Z",
   "news": [
+    {
+      "id": "292758cd3dc1",
+      "title": "Entertainment Earth opens pre-orders for an exclusive Prisoner Bon Clay One Piece Pop!",
+      "url": "https://plastiqnews.com/pre-order-alert-funko-one-piece-prisoner-bon-clay-funko-pop-vinyl-figure-entertainment-earth-exclusive/",
+      "source": "Plastiq News",
+      "publishedAt": "2026-11-19T06:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "aea0ac2d9fd6",
       "title": "Funko and Loungefly kick off a Black Friday sale with up to 70% off through Nov. 29",
@@ -72,18 +84,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/d10d74191124a4fb.jpg"
-    },
-    {
-      "id": "92d8b158c086",
-      "title": "Entertainment Earth opens pre-orders for an exclusive flocked Gizmo Pop!",
-      "url": "https://www.allhallowsgeek.com/entertainment-earth-opens-pre-orders-for-exclusive-flocked-gizmo-funko-pop/",
-      "source": "All Hallows Geek",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "kind": "exclusive",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/734e05c1666ec791.jpg"
     },
     {
       "id": "9e95fb2baf4e",
@@ -290,18 +290,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/29e9daff1cd52877.jpg"
-    },
-    {
-      "id": "92d8b158c086",
-      "title": "Entertainment Earth opens pre-orders for an exclusive flocked Gizmo Pop!",
-      "url": "https://www.allhallowsgeek.com/entertainment-earth-opens-pre-orders-for-exclusive-flocked-gizmo-funko-pop/",
-      "source": "All Hallows Geek",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "kind": "exclusive",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/734e05c1666ec791.jpg"
     },
     {
       "id": "9e95fb2baf4e",
