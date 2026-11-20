@@ -1,6 +1,42 @@
 {
-  "fetchedAt": "2026-11-20T13:32:43.162Z",
+  "fetchedAt": "2026-11-20T13:34:06.979Z",
   "news": [
+    {
+      "id": "ed988067e955",
+      "title": "Funko unveils Avengers: Doomsday Thor and Dune: Part Three Pops, including a Paul Atreides with Sandworm Pop! Moment",
+      "url": "https://licensing.biz/funko-celebrates-2026s-biggest-film-releases/",
+      "source": "Licensing.biz",
+      "publishedAt": "2026-11-20T06:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "7addcc67fd91",
+      "title": "Funko reveals Harry Potter Bitty Loungefly house 3-packs with a 1-in-48 Chocolate Frog chase",
+      "url": "https://mugglenet.com/2026/11/harry-potter-bitty-loungefly-funko-exclusive/",
+      "source": "MuggleNet",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "ba280d0a9e12",
+      "title": "Step Brothers and Talladega Nights Pops open for pre-order: Brennan, Dale, Ricky Bobby & Cal, and Jean Girard",
+      "url": "https://toynewsi.com/274-67459",
+      "source": "ToyNewsI",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "292758cd3dc1",
       "title": "Entertainment Earth opens pre-orders for an exclusive Prisoner Bon Clay One Piece Pop!",
@@ -267,6 +303,42 @@
     }
   ],
   "drops": [
+    {
+      "id": "ed988067e955",
+      "title": "Funko unveils Avengers: Doomsday Thor and Dune: Part Three Pops, including a Paul Atreides with Sandworm Pop! Moment",
+      "url": "https://licensing.biz/funko-celebrates-2026s-biggest-film-releases/",
+      "source": "Licensing.biz",
+      "publishedAt": "2026-11-20T06:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "7addcc67fd91",
+      "title": "Funko reveals Harry Potter Bitty Loungefly house 3-packs with a 1-in-48 Chocolate Frog chase",
+      "url": "https://mugglenet.com/2026/11/harry-potter-bitty-loungefly-funko-exclusive/",
+      "source": "MuggleNet",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "ba280d0a9e12",
+      "title": "Step Brothers and Talladega Nights Pops open for pre-order: Brennan, Dale, Ricky Bobby & Cal, and Jean Girard",
+      "url": "https://toynewsi.com/274-67459",
+      "source": "ToyNewsI",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "a010c5d07582",
       "title": "Funko's KPop Demon Hunters Pop! Mystery 6-pack puts the Saja Boys in blind boxes",
