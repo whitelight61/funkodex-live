@@ -1,6 +1,18 @@
 {
-  "fetchedAt": "2026-11-21T13:21:03.208Z",
+  "fetchedAt": "2026-11-21T13:39:50.853Z",
   "news": [
+    {
+      "id": "7366ac37dc7e",
+      "title": "Hatsune Miku gets her first new Funko Pop! since 2021: a roller-skating Diner Version with a 1-in-6 diamond chase",
+      "url": "https://pop-figures.com/news/hatsune-miku-six-years-without-a-pop-then-back-on-skates-1028",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "ed988067e955",
       "title": "Funko unveils Avengers: Doomsday Thor and Dune: Part Three Pops, including a Paul Atreides with Sandworm Pop! Moment",
@@ -48,6 +60,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/e571cf577226350e.jpg"
+    },
+    {
+      "id": "f3955a821800",
+      "title": "French judo champion Teddy Riner gets a Funko.com-exclusive Pop! #98",
+      "url": "https://pop-figures.com/news/teddy-riner-this-pop-took-on-a-new-meaning-on-november-9-1029",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "aea0ac2d9fd6",
@@ -276,30 +300,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/328dd811b216d238.jpg"
-    },
-    {
-      "id": "6e3a39aed070",
-      "title": "Funko Reports Strong Third Quarter 2026 Financial Results; Reiterates Full-Year Net Sales and Adjusted EBITDA Guidance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/funko-reports-strong-third-quarter-210500274.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-11-05T21:05:00.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/1c76fbfdb9aa7ef6.jpg"
-    },
-    {
-      "id": "d256b2035714",
-      "title": "Prince Adam, Teela and Skeletor join Funko’s Masters of the Universe Pop! Comics line with new vinyl figures",
-      "url": "https://www.flickeringmyth.com/prince-adam-teela-and-skeletor-join-funkos-masters-of-the-universe-pop-comics-line-with-new-vinyl-figures/",
-      "source": "Flickering Myth",
-      "publishedAt": "2026-11-03T23:59:23.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/0fe769f2cb086a5b.jpg"
     }
   ],
   "drops": [
@@ -338,6 +338,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/90049491fd07f2bf.jpg"
+    },
+    {
+      "id": "f3955a821800",
+      "title": "French judo champion Teddy Riner gets a Funko.com-exclusive Pop! #98",
+      "url": "https://pop-figures.com/news/teddy-riner-this-pop-took-on-a-new-meaning-on-november-9-1029",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "a010c5d07582",
