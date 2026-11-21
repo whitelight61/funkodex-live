@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-20T13:33:24.427Z",
+  "updatedAt": "2026-11-21T13:39:06.468Z",
   "items": [
+    {
+      "id": "7366ac37dc7e",
+      "title": "Hatsune Miku gets her first new Funko Pop! since 2021: a roller-skating Diner Version with a 1-in-6 diamond chase",
+      "url": "https://pop-figures.com/news/hatsune-miku-six-years-without-a-pop-then-back-on-skates-1028",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Pop! Hatsune Miku (Diner Version) #2636 shows the virtual singer as a retro diner waitress on roller skates with turquoise pigtails. Funko lists it as coming soon at $14.99 with a 1 in 6 chance of a sparkly diamond chase.",
+      "verified_by": [
+        "https://funko.com/pop-hatsune-miku-diner-version/96517.html",
+        "https://pop-figures.com/news/hatsune-miku-six-years-without-a-pop-then-back-on-skates-1028"
+      ],
+      "origin": "web"
+    },
     {
       "id": "ed988067e955",
       "title": "Funko unveils Avengers: Doomsday Thor and Dune: Part Three Pops, including a Paul Atreides with Sandworm Pop! Moment",
@@ -71,6 +89,24 @@
       "verified_by": [
         "https://www.entertainmentearth.com/product/one-piece-prisoner-bon-clay-funko-pop-vinyl-figure-entertainment-earth-exclusive/fu1p96771ee",
         "https://funko.com/pop-bon-clay/96771.html"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "f3955a821800",
+      "title": "French judo champion Teddy Riner gets a Funko.com-exclusive Pop! #98",
+      "url": "https://pop-figures.com/news/teddy-riner-this-pop-took-on-a-new-meaning-on-november-9-1029",
+      "source": "Pop-Figures",
+      "publishedAt": "2026-11-18T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's web-exclusive Pop! Teddy Riner #98 ($14.99) honors the French judo champion in his judogi; it is about 3.7 inches tall and comes with Octane5 authentication packaging.",
+      "verified_by": [
+        "https://funko.com/pop-teddy-riner/95763.html",
+        "https://pop-figures.com/news/teddy-riner-this-pop-took-on-a-new-meaning-on-november-9-1029"
       ],
       "origin": "web"
     },
