@@ -1,6 +1,30 @@
 {
-  "fetchedAt": "2026-11-22T13:26:54.127Z",
+  "fetchedAt": "2026-11-22T13:38:11.483Z",
   "news": [
+    {
+      "id": "8283122ef9a6",
+      "title": "Funko adds Liverpool's Isak, Szoboszlai and Ekitiké and Man City's Donnarumma and Rúben Dias to Pop! Football",
+      "url": "https://www.geek-planet.com/en/uk/news/pop/fifa/pop-fifa-pre-order-2027-01",
+      "source": "Geek Planet",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "941d21ca0a45",
+      "title": "Funko opens a limited-time web-exclusive Pop! TheBurntPeanut, on pre-order through Dec. 14",
+      "url": "https://www.actionfigureinsider.com/funko-x-theburntpeanut-pop-available-now-for-pre-order/",
+      "source": "Action Figure Insider",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "7366ac37dc7e",
       "title": "Hatsune Miku gets her first new Funko Pop! since 2021: a roller-skating Diner Version with a 1-in-6 diamond chase",
@@ -276,33 +300,21 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/a23e9f602dc080de.jpg"
-    },
-    {
-      "id": "b089b62bf8e1",
-      "title": "Funko: Q3 Earnings Snapshot",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/funko-q3-earnings-snapshot-224132461.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-11-05T22:41:32.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/977302ae35880650.jpg"
-    },
-    {
-      "id": "2873fac0e619",
-      "title": "Funko’s Core Collectibles Lead Q3 Growth as Loungefly Gets Leaner",
-      "url": "https://toybook.com/funko-q3-2026-earnings/",
-      "source": "The Toy Book",
-      "publishedAt": "2026-11-05T21:45:03.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/328dd811b216d238.jpg"
     }
   ],
   "drops": [
+    {
+      "id": "941d21ca0a45",
+      "title": "Funko opens a limited-time web-exclusive Pop! TheBurntPeanut, on pre-order through Dec. 14",
+      "url": "https://www.actionfigureinsider.com/funko-x-theburntpeanut-pop-available-now-for-pre-order/",
+      "source": "Action Figure Insider",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "ed988067e955",
       "title": "Funko unveils Avengers: Doomsday Thor and Dune: Part Three Pops, including a Paul Atreides with Sandworm Pop! Moment",
