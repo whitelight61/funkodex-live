@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-22T13:37:32.922Z",
+  "updatedAt": "2026-11-23T13:32:37.089Z",
   "items": [
+    {
+      "id": "9fef309e1eb5",
+      "title": "Funko's 2026 Bitty Pop! Countdown Calendars bring 24 days of Pokémon, Star Wars and Hello Kitty & Friends minis",
+      "url": "https://explosionnetwork.com/funko-reveals-pokemon-star-wars-and-hello-kitty-bitty-pop-countdown-calendars-for-christmas-2026/",
+      "source": "Explosion Network",
+      "publishedAt": "2026-11-22T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Three Bitty Pop! Countdown Calendars for Christmas 2026, Pokémon, Star Wars and Hello Kitty & Friends, each with 24 days of miniature collectibles.",
+      "verified_by": [
+        "https://funko.com/bitty-pop-star-wars-countdown-calendar/92657.html",
+        "https://funko.com/bitty-pop-hello-kitty-countdown-calendar/92656.html"
+      ],
+      "origin": "web"
+    },
     {
       "id": "8283122ef9a6",
       "title": "Funko adds Liverpool's Isak, Szoboszlai and Ekitiké and Man City's Donnarumma and Rúben Dias to Pop! Football",
@@ -16,6 +34,23 @@
       "verified_by": [
         "https://funko.com/pop-alexander-isak/96016.html",
         "https://funkopop.cl/post/funko-pop-manchester-city-donnarumma-ruben-dias-chile-2026"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "8f82c6ad22b5",
+      "title": "Funko Shop's four November limited editions drop Nov. 23: Cyber Corrupted Sonic (1,200 pcs), Kevin Owens (3,500), metallic Howard the Duck (5,000) and Black Widow Black Suit (7,500)",
+      "url": "https://poparchive.club/seasonal.html",
+      "source": "PopArchive",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's limited edition drop calendar lists four Nov. 23 drops: Pop! Cyber Corrupted Sonic with Pop! Protector ($39.99, 1,200 pieces), Pop! Kevin Owens with Pop! Protector ($29.99, 3,500), Pop! Howard the Duck (Power Cosmic) (Metallic) with Pop! Protector ($24.99, 5,000) and Pop! Black Widow (Black Suit) ($19.99, 7,500).",
+      "verified_by": [
+        "https://funko.com/limited-edition-drops/"
       ],
       "origin": "web"
     },
@@ -70,6 +105,24 @@
       "verified_by": [
         "https://funko.com/pop-moment-paul-atreides-with-sandworm/94165.html",
         "https://toyworldmag.co.uk/funko-celebrates-2026s-biggest-film-releases/"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "bb9ce6bb539f",
+      "title": "Amazon-exclusive Avengers: Doomsday Mystique Pop!, limited to 5,000, drops Nov. 25 at noon ET for $19.99",
+      "url": "https://evoretro.ca/blogs/news/funko-pop-mystique-avengers-doomsday-exclusive-guide",
+      "source": "EVORETRO",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "summary": "Mystique from Avengers: Doomsday, blue textured skin, red hair, yellow eyes, white outfit and skull headpiece; Amazon exclusive limited edition of 5,000, $19.99, Nov. 25 at noon ET.",
+      "verified_by": [
+        "https://comicbook.com/crate/funko-pop-november-2026-releases/",
+        "https://fictionhorizon.com/limited-edition-professor-x-and-mystique-funko-pops-for-avengers-doomsday-revealed/"
       ],
       "origin": "web"
     },
