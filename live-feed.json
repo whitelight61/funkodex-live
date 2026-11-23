@@ -1,6 +1,18 @@
 {
-  "fetchedAt": "2026-11-23T13:20:35.981Z",
+  "fetchedAt": "2026-11-23T13:33:26.113Z",
   "news": [
+    {
+      "id": "9fef309e1eb5",
+      "title": "Funko's 2026 Bitty Pop! Countdown Calendars bring 24 days of Pokémon, Star Wars and Hello Kitty & Friends minis",
+      "url": "https://explosionnetwork.com/funko-reveals-pokemon-star-wars-and-hello-kitty-bitty-pop-countdown-calendars-for-christmas-2026/",
+      "source": "Explosion Network",
+      "publishedAt": "2026-11-22T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "8283122ef9a6",
       "title": "Funko adds Liverpool's Isak, Szoboszlai and Ekitiké and Man City's Donnarumma and Rúben Dias to Pop! Football",
@@ -12,6 +24,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/7f7555dc3cf960cd.jpg"
+    },
+    {
+      "id": "8f82c6ad22b5",
+      "title": "Funko Shop's four November limited editions drop Nov. 23: Cyber Corrupted Sonic (1,200 pcs), Kevin Owens (3,500), metallic Howard the Duck (5,000) and Black Widow Black Suit (7,500)",
+      "url": "https://poparchive.club/seasonal.html",
+      "source": "PopArchive",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "941d21ca0a45",
@@ -48,6 +72,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/2d9a8e002257905c.jpg"
+    },
+    {
+      "id": "bb9ce6bb539f",
+      "title": "Amazon-exclusive Avengers: Doomsday Mystique Pop!, limited to 5,000, drops Nov. 25 at noon ET for $19.99",
+      "url": "https://evoretro.ca/blogs/news/funko-pop-mystique-avengers-doomsday-exclusive-guide",
+      "source": "EVORETRO",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "7addcc67fd91",
@@ -264,45 +300,21 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/81a037a0033013d4.jpg"
-    },
-    {
-      "id": "1b4456bfbf6e",
-      "title": "Funko, Inc. 2026 Q3",
-      "url": "https://seekingalpha.com/article/4963837-funko-inc-2026-q3-results-earnings-call-presentation?source=feed_symbol_FNKO",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-11-06T08:33:44.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/1e727559872d725b.jpg"
-    },
-    {
-      "id": "bc6c0c244f59",
-      "title": "Funko Inc (FNKO) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/funko-inc-fnko-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-11-06T08:14:39.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/ee505f6523b32808.jpg"
-    },
-    {
-      "id": "5f78d1986c96",
-      "title": "Funko reiterates full-year sales flat to up 3% and adjusted EBITDA $100M-$110M as Pop! Mystery expands",
-      "url": "https://seekingalpha.com/symbol/FNKO/news?source=feed_symbol_FNKO",
-      "source": "Seeking Alpha",
-      "publishedAt": "2026-11-06T00:25:26.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/a23e9f602dc080de.jpg"
     }
   ],
   "drops": [
+    {
+      "id": "8f82c6ad22b5",
+      "title": "Funko Shop's four November limited editions drop Nov. 23: Cyber Corrupted Sonic (1,200 pcs), Kevin Owens (3,500), metallic Howard the Duck (5,000) and Black Widow Black Suit (7,500)",
+      "url": "https://poparchive.club/seasonal.html",
+      "source": "PopArchive",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "image": null,
+      "kind": "drop",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "941d21ca0a45",
       "title": "Funko opens a limited-time web-exclusive Pop! TheBurntPeanut, on pre-order through Dec. 14",
@@ -326,6 +338,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/2d9a8e002257905c.jpg"
+    },
+    {
+      "id": "bb9ce6bb539f",
+      "title": "Amazon-exclusive Avengers: Doomsday Mystique Pop!, limited to 5,000, drops Nov. 25 at noon ET for $19.99",
+      "url": "https://evoretro.ca/blogs/news/funko-pop-mystique-avengers-doomsday-exclusive-guide",
+      "source": "EVORETRO",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "7addcc67fd91",
