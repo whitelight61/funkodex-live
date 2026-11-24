@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T13:28:38.470Z",
+  "fetchedAt": "2026-11-24T23:25:59.860Z",
   "news": [
     {
       "id": "9fef309e1eb5",
@@ -254,6 +254,18 @@
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/40140dfa4098f1a3.jpg"
     },
     {
+      "id": "f1f26b85eaa0",
+      "title": "Missed Funko's 107% Run? What Holders Had To Believe",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/missed-funkos-107-run-holders-131044199.html?.tsrc=rss",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-11-24T13:10:44.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
       "id": "f3c70d8c189e",
       "title": "Online to In-Stores: TheBurntPeanut Expands with Licensing Partnerships",
       "url": "https://toybook.com/theburntpeanut-licensing-news/",
@@ -288,18 +300,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/1282e09d74a7f713.jpg"
-    },
-    {
-      "id": "73bcc2067d18",
-      "title": "Netflix’s Cyberpunk: Edgerunners II goes Pop! with new figures from Funko",
-      "url": "https://www.flickeringmyth.com/netflixs-cyberpunk-edgerunners-ii-goes-pop-with-new-figures-from-funko/",
-      "source": "Flickering Myth",
-      "publishedAt": "2026-11-09T13:22:49.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/81a037a0033013d4.jpg"
     }
   ],
   "drops": [
