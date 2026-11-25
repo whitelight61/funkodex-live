@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-11-23T13:32:37.089Z",
+  "updatedAt": "2026-11-25T13:35:10.938Z",
   "items": [
+    {
+      "id": "c8719a174464",
+      "title": "Funko Pop! Mystery blind boxes launch in Brazil through Candide, starting with KPop Demon Hunters and a one-of-one chase Funko will buy back for $10,000",
+      "url": "https://abramark.com.br/inteligemcia/noticias/funko-traz-linha-pop-mystery-ao-brasil-pela-candide/",
+      "source": "Academia Brasileira de Marketing",
+      "publishedAt": "2026-11-25T13:16:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's Pop! Mystery blind-box line arrives officially in Brazil via exclusive distributor Candide, debuting with KPop Demon Hunters: six regular characters, a 1-in-72 Mystery Chase, and a single worldwide 1-of-1 Chase Global that the finder can sell back to Funko for US$10,000. One Piece, Sanrio, Harry Potter and Shrek are planned next.",
+      "verified_by": [
+        "https://auroracultural.com/noticias/cultura/funko-pop-mystery-chega-ao-brasil-com-peca-unica-de-us-10-mil/"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "acdd8ac7fcf4",
+      "title": "Funko brings seven Event Edition Pop! exclusives to CCXP26 in São Paulo, including Wanda Maximoff, Chopper, Anya and Beerus",
+      "url": "https://reportergeek.com.br/2026/11/24/funko-ccxp26-event-edition-modelos-brindes/",
+      "source": "Repórter Geek",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko announced seven Pop! Event Edition exclusives for CCXP26 (Dec. 3-6, São Paulo Expo): Stitch with cake, Tony Tony Chopper, Anya Forger in detective outfit with magnifying glass, Beerus, Wanda Maximoff in a statue look covered in vegetation, Princess Vivi and Pompompurin. Sold only at Funko's booth, no online sales, while supplies last.",
+      "verified_by": [
+        "https://www.omelete.com.br/ccxp/ccxp-26-funko-exclusivos",
+        "https://www.bugandousgames.com.br/post/ccxp26-tera-funko-exclusivos-de-wanda-one-piece-e-dragon-ball-f57e1c"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "0adbb2866760",
+      "title": "Funko launches KPop Demon Hunters Bitty POP! 4-packs in three series at $14.99 each",
+      "url": "https://x.com/OriginalFunko/status/2125273380421009735",
+      "source": "Funko (@OriginalFunko)",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Tiny 0.9-inch Bitty POP! figures of the KPop Demon Hunters crew in stackable acrylic cases, four per pack; Series 1 has Bobby, Mira, Derpy Tiger and Romance Saja. $14.99 each, listed as coming soon on Funko's site.",
+      "verified_by": [
+        "https://funko.com/bitty-pop-kpop-demon-hunters-series-1/96614.html",
+        "https://funko.com/bitty-pop-kpop-demon-hunters-series-2/96615.html",
+        "https://funko.com/bitty-pop-kpop-demon-hunters-series-3/96616.html"
+      ],
+      "origin": "x"
+    },
     {
       "id": "9fef309e1eb5",
       "title": "Funko's 2026 Bitty Pop! Countdown Calendars bring 24 days of Pokémon, Star Wars and Hello Kitty & Friends minis",
@@ -233,23 +287,6 @@
         "https://funko.com/pop-tony-stark-nanotech-suit/95960.html",
         "https://funko.com/pop-steve-rogers-chopping-wood/93410.html",
         "https://pop-figures.com/figure/1671-the-infinity-saga-steve-rogers-chopping-wood-19599"
-      ],
-      "origin": "web"
-    },
-    {
-      "id": "a010c5d07582",
-      "title": "Funko's KPop Demon Hunters Pop! Mystery 6-pack puts the Saja Boys in blind boxes",
-      "url": "https://collectiblz.com/news/2026/11/13/kpop-demon-hunters-mystery-6-pack-saja-boys",
-      "source": "Collectiblz",
-      "publishedAt": "2026-11-13T17:00:00.000Z",
-      "image": null,
-      "cover": null,
-      "kind": "drop",
-      "detail": null,
-      "popId": null,
-      "summary": "The $89.99 Pop! Mystery KPop Demon Hunters 6-pack includes blind-boxed Jinu, Abby, Baby, Mystery, Romance and Crying Demon with Pop! cards, a 1-in-72 Mystery Chase and a 1-of-1 Worldwide Chase.",
-      "verified_by": [
-        "https://funko.com/pop-mystery-kpop-demon-hunters-6-pack/96234.html"
       ],
       "origin": "web"
     },
