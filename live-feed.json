@@ -1,6 +1,42 @@
 {
-  "fetchedAt": "2026-11-26T13:22:43.594Z",
+  "fetchedAt": "2026-11-26T13:34:25.642Z",
   "news": [
+    {
+      "id": "2f270bdc8ea8",
+      "title": "Black Torch gets its first Funko Pop! wave: Jiro Azuma (with chase), Rago, Ichika and Reiji, plus a Funko Shop-exclusive Amagi",
+      "url": "https://www.funkopop.cl/post/funko-pop-black-torch-jiro-azuma-rago-amagi-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "1d1ec8e7734f",
+      "title": "Crunchyroll Store launches an exclusive Frieren & Fern Funko Pop! 2-pack for Black Friday at $29.99",
+      "url": "https://www.crunchyroll.com/news/latest/2026/11/25/frieren-beyond-journeys-end-funko-pop-two-pack-black-friday-crunchyroll-store-exclusive-fern-frieren",
+      "source": "Crunchyroll News",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "a81d7a8eee2d",
+      "title": "Disney's Hexed opens in theaters with a Pop! of Beef Roger Crummchuk, #1843",
+      "url": "https://wdwnt.com/2026/11/disneys-hexed-hair-color-kits-nail-polish-funko-pop-and-more-now-available/",
+      "source": "WDW News Today",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "c8719a174464",
       "title": "Funko Pop! Mystery blind boxes launch in Brazil through Candide, starting with KPop Demon Hunters and a one-of-one chase Funko will buy back for $10,000",
@@ -264,45 +300,33 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/cf3c142223831407.jpg"
-    },
-    {
-      "id": "034828d6d73b",
-      "title": "Psyren gets its first Funko Pop! figures, led by the Drifters and Nemesis Q",
-      "url": "https://pop-figures.com/news/psyren-returns-to-funko-with-its-deadly-game-intact-1022",
-      "source": "POP! Figures",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/40140dfa4098f1a3.jpg"
-    },
-    {
-      "id": "f1f26b85eaa0",
-      "title": "Missed Funko's 107% Run? What Holders Had To Believe",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/missed-funkos-107-run-holders-131044199.html?.tsrc=rss",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-11-24T13:10:44.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/283b46676d128bc3.jpg"
-    },
-    {
-      "id": "f3c70d8c189e",
-      "title": "Online to In-Stores: TheBurntPeanut Expands with Licensing Partnerships",
-      "url": "https://toybook.com/theburntpeanut-licensing-news/",
-      "source": "The Toy Book",
-      "publishedAt": "2026-11-19T17:06:43.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/8ddf7f614589f6f9.jpg"
     }
   ],
   "drops": [
+    {
+      "id": "2f270bdc8ea8",
+      "title": "Black Torch gets its first Funko Pop! wave: Jiro Azuma (with chase), Rago, Ichika and Reiji, plus a Funko Shop-exclusive Amagi",
+      "url": "https://www.funkopop.cl/post/funko-pop-black-torch-jiro-azuma-rago-amagi-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "1d1ec8e7734f",
+      "title": "Crunchyroll Store launches an exclusive Frieren & Fern Funko Pop! 2-pack for Black Friday at $29.99",
+      "url": "https://www.crunchyroll.com/news/latest/2026/11/25/frieren-beyond-journeys-end-funko-pop-two-pack-black-friday-crunchyroll-store-exclusive-fern-frieren",
+      "source": "Crunchyroll News",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "acdd8ac7fcf4",
       "title": "Funko brings seven Event Edition Pop! exclusives to CCXP26 in São Paulo, including Wanda Maximoff, Chopper, Anya and Beerus",
