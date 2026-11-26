@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-11-25T13:35:10.938Z",
+  "updatedAt": "2026-11-26T13:33:46.629Z",
   "items": [
+    {
+      "id": "2f270bdc8ea8",
+      "title": "Black Torch gets its first Funko Pop! wave: Jiro Azuma (with chase), Rago, Ichika and Reiji, plus a Funko Shop-exclusive Amagi",
+      "url": "https://www.funkopop.cl/post/funko-pop-black-torch-jiro-azuma-rago-amagi-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "summary": "First Pop! figures for Tsuyoshi Takaki's Black Torch manga: Jiro Azuma #2650 with a chase variant, the black cat Rago #2651, Ichika Kishimojin #2652, Reiji Kirihara #2653, and villain Amagi #2654 as a Funko.com web exclusive at $14.99. Pre-orders opened Nov. 25.",
+      "verified_by": [
+        "https://funko.com/pop-amagi/97003.html",
+        "https://funko.com/pop-rago/97001.html"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "1d1ec8e7734f",
+      "title": "Crunchyroll Store launches an exclusive Frieren & Fern Funko Pop! 2-pack for Black Friday at $29.99",
+      "url": "https://www.crunchyroll.com/news/latest/2026/11/25/frieren-beyond-journeys-end-funko-pop-two-pack-black-friday-crunchyroll-store-exclusive-fern-frieren",
+      "source": "Crunchyroll News",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "exclusive",
+      "detail": null,
+      "popId": null,
+      "summary": "A Crunchyroll Store-exclusive Pop! 2-pack of Frieren and her apprentice Fern from Frieren: Beyond Journey's End is now available to order for $29.99.",
+      "verified_by": [
+        "https://funko.com/pop-frieren-fern-2-pack/93975.html",
+        "https://animemojo.com/crunchyroll/frieren-beyond-journeys-end-funko-two-pack-hits-the-crunchyroll-store-as-premium-subscription-drops-to-599-a21306"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "a81d7a8eee2d",
+      "title": "Disney's Hexed opens in theaters with a Pop! of Beef Roger Crummchuk, #1843",
+      "url": "https://wdwnt.com/2026/11/disneys-hexed-hair-color-kits-nail-polish-funko-pop-and-more-now-available/",
+      "source": "WDW News Today",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's Pop! Disney Beef Roger Crummchuk from Disney Animation's Hexed, box #1843, about 3.3 inches tall, $14.99 and listed as Coming Soon on Funko.com. Hexed opened in theaters Nov. 25.",
+      "verified_by": [
+        "https://funko.com/pop-beef-roger-crummchuk/94728.html",
+        "https://x.com/OriginalFunko/status/2125635844606247258"
+      ],
+      "origin": "x"
+    },
     {
       "id": "c8719a174464",
       "title": "Funko Pop! Mystery blind boxes launch in Brazil through Candide, starting with KPop Demon Hunters and a one-of-one chase Funko will buy back for $10,000",
