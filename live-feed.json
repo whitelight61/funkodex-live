@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T13:18:18.252Z",
+  "fetchedAt": "2026-11-27T13:38:35.128Z",
   "news": [
     {
       "id": "2f270bdc8ea8",
@@ -72,6 +72,30 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/4f15906d596100b2.jpg"
+    },
+    {
+      "id": "18ea973eba4c",
+      "title": "New Pokémon Pop! wave: Chikorita, Nidoking, Nidoqueen and Vaporeon, #1355–#1358, plus a four-Pop Pokémon Bundle",
+      "url": "https://www.funkopop.cl/post/funko-pop-pokemon-chikorita-nidoking-nidoqueen-vaporeon-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
+    {
+      "id": "b9b40f4cb362",
+      "title": "Rurouni Kenshin gets its first Funko Pop! figures: Kenshin Himura #2689 with a chase, and Makoto Shishio #2690",
+      "url": "https://www.funkopop.cl/post/funko-pop-rurouni-kenshin-kenshin-himura-makoto-shishio-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "9fef309e1eb5",
@@ -276,30 +300,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/c3bd70ba235cfac8.jpg"
-    },
-    {
-      "id": "a5df11280378",
-      "title": "Funko’s Professor Pyg GameStop exclusive arrives in the classic black apron",
-      "url": "https://collectiblz.com/news/2026/11/12/professor-pyg-batman-gamestop-exclusive-funko-pop",
-      "source": "Collectiblz",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "kind": "exclusive",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/a36c3dd9870cd0d0.jpg"
-    },
-    {
-      "id": "ebbcd9a86f99",
-      "title": "Archer gets its first Funko Pop! wave: Sterling, Malory, Pam and Krieger",
-      "url": "https://pop-figures.com/news/archers-first-funko-pop-wave-found-the-wrong-agency-1021",
-      "source": "POP! Figures",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/cf3c142223831407.jpg"
     }
   ],
   "drops": [
@@ -446,18 +446,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/c3bd70ba235cfac8.jpg"
-    },
-    {
-      "id": "a5df11280378",
-      "title": "Funko’s Professor Pyg GameStop exclusive arrives in the classic black apron",
-      "url": "https://collectiblz.com/news/2026/11/12/professor-pyg-batman-gamestop-exclusive-funko-pop",
-      "source": "Collectiblz",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "kind": "exclusive",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/a36c3dd9870cd0d0.jpg"
     }
   ],
   "moves": [
