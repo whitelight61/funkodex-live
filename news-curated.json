@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:33:46.629Z",
+  "updatedAt": "2026-11-27T13:37:48.416Z",
   "items": [
     {
       "id": "2f270bdc8ea8",
@@ -108,6 +108,41 @@
         "https://funko.com/bitty-pop-kpop-demon-hunters-series-3/96616.html"
       ],
       "origin": "x"
+    },
+    {
+      "id": "18ea973eba4c",
+      "title": "New Pokémon Pop! wave: Chikorita, Nidoking, Nidoqueen and Vaporeon, #1355–#1358, plus a four-Pop Pokémon Bundle",
+      "url": "https://www.funkopop.cl/post/funko-pop-pokemon-chikorita-nidoking-nidoqueen-vaporeon-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's new Pokémon Pop! Games wave: Chikorita #1355, Nidoking #1356, Nidoqueen #1357 and Vaporeon #1358 ($14.99, coming soon on Funko.com), going on sale Nov. 25 alongside a Pokémon Bundle of Venusaur, Charizard, Blastoise and Pikachu.",
+      "verified_by": [
+        "https://funko.com/pop-chikorita/96594.html"
+      ],
+      "origin": "web"
+    },
+    {
+      "id": "b9b40f4cb362",
+      "title": "Rurouni Kenshin gets its first Funko Pop! figures: Kenshin Himura #2689 with a chase, and Makoto Shishio #2690",
+      "url": "https://www.funkopop.cl/post/funko-pop-rurouni-kenshin-kenshin-himura-makoto-shishio-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Funko's first Rurouni Kenshin Pops: Kenshin Himura #2689 with a chase variant and Makoto Shishio #2690, $14.99 each on Funko.com, US pre-orders from Nov. 25.",
+      "verified_by": [
+        "https://funko.com/pop-kenshin-himura/96101.html",
+        "https://funko.com/pop-makoto-shishio/96102.html"
+      ],
+      "origin": "web"
     },
     {
       "id": "9fef309e1eb5",
