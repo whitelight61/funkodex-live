@@ -3,7 +3,7 @@
   "news": [
     {
       "id": "c98a916f995d",
-      "title": "Fast & Furious returns to Pop! Rides with Dom's '70 Charger and '87 Buick Grand National and Letty's '66 Stingray, #163–#165",
+      "title": "Fast & Furious returns to Pop! Rides with Dom's '70 Charger and '87 Buick Grand National and Letty's '66 Stingray, #163\u2013#165",
       "url": "https://toynewsi.com/274-67573",
       "source": "ToyNewsI",
       "publishedAt": "2026-11-27T17:00:00.000Z",
@@ -11,7 +11,7 @@
       "kind": "news",
       "detail": null,
       "popId": null,
-      "cover": null
+      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/9406f7a0e9ce045e.jpg"
     },
     {
       "id": "2f270bdc8ea8",
@@ -51,7 +51,7 @@
     },
     {
       "id": "41a2f09ee061",
-      "title": "Voltron's five lions get their own Pop! Television figures, #1994–#1998",
+      "title": "Voltron's five lions get their own Pop! Television figures, #1994\u2013#1998",
       "url": "https://www.funkopop.cl/post/funko-pop-voltron-cinco-leones-black-lion-chile-2026",
       "source": "Funko Pop Chile",
       "publishedAt": "2026-11-25T17:00:00.000Z",
@@ -59,7 +59,7 @@
       "kind": "news",
       "detail": null,
       "popId": null,
-      "cover": null
+      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/62349e7d953e2dba.jpg"
     },
     {
       "id": "c8719a174464",
@@ -75,9 +75,9 @@
     },
     {
       "id": "acdd8ac7fcf4",
-      "title": "Funko brings seven Event Edition Pop! exclusives to CCXP26 in São Paulo, including Wanda Maximoff, Chopper, Anya and Beerus",
+      "title": "Funko brings seven Event Edition Pop! exclusives to CCXP26 in S\u00e3o Paulo, including Wanda Maximoff, Chopper, Anya and Beerus",
       "url": "https://reportergeek.com.br/2026/11/24/funko-ccxp26-event-edition-modelos-brindes/",
-      "source": "Repórter Geek",
+      "source": "Rep\u00f3rter Geek",
       "publishedAt": "2026-11-24T17:00:00.000Z",
       "image": null,
       "kind": "exclusive",
@@ -99,7 +99,7 @@
     },
     {
       "id": "18ea973eba4c",
-      "title": "New Pokémon Pop! wave: Chikorita, Nidoking, Nidoqueen and Vaporeon, #1355–#1358, plus a four-Pop Pokémon Bundle",
+      "title": "New Pok\u00e9mon Pop! wave: Chikorita, Nidoking, Nidoqueen and Vaporeon, #1355\u2013#1358, plus a four-Pop Pok\u00e9mon Bundle",
       "url": "https://www.funkopop.cl/post/funko-pop-pokemon-chikorita-nidoking-nidoqueen-vaporeon-chile-2026",
       "source": "Funko Pop Chile",
       "publishedAt": "2026-11-24T17:00:00.000Z",
@@ -123,7 +123,7 @@
     },
     {
       "id": "9fef309e1eb5",
-      "title": "Funko's 2026 Bitty Pop! Countdown Calendars bring 24 days of Pokémon, Star Wars and Hello Kitty & Friends minis",
+      "title": "Funko's 2026 Bitty Pop! Countdown Calendars bring 24 days of Pok\u00e9mon, Star Wars and Hello Kitty & Friends minis",
       "url": "https://explosionnetwork.com/funko-reveals-pokemon-star-wars-and-hello-kitty-bitty-pop-countdown-calendars-for-christmas-2026/",
       "source": "Explosion Network",
       "publishedAt": "2026-11-22T17:00:00.000Z",
@@ -135,7 +135,7 @@
     },
     {
       "id": "8283122ef9a6",
-      "title": "Funko adds Liverpool's Isak, Szoboszlai and Ekitiké and Man City's Donnarumma and Rúben Dias to Pop! Football",
+      "title": "Funko adds Liverpool's Isak, Szoboszlai and Ekitik\u00e9 and Man City's Donnarumma and R\u00faben Dias to Pop! Football",
       "url": "https://www.geek-planet.com/en/uk/news/pop/fifa/pop-fifa-pre-order-2027-01",
       "source": "Geek Planet",
       "publishedAt": "2026-11-21T17:00:00.000Z",
@@ -329,9 +329,9 @@
     },
     {
       "id": "acdd8ac7fcf4",
-      "title": "Funko brings seven Event Edition Pop! exclusives to CCXP26 in São Paulo, including Wanda Maximoff, Chopper, Anya and Beerus",
+      "title": "Funko brings seven Event Edition Pop! exclusives to CCXP26 in S\u00e3o Paulo, including Wanda Maximoff, Chopper, Anya and Beerus",
       "url": "https://reportergeek.com.br/2026/11/24/funko-ccxp26-event-edition-modelos-brindes/",
-      "source": "Repórter Geek",
+      "source": "Rep\u00f3rter Geek",
       "publishedAt": "2026-11-24T17:00:00.000Z",
       "image": null,
       "kind": "exclusive",
@@ -445,7 +445,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $169.50 · was $111.88 · up 52%",
+      "detail": "Sold median $169.50 \u00b7 was $111.88 \u00b7 up 52%",
       "popId": "ned-ned-134"
     },
     {
@@ -456,7 +456,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $55.50 · was $39.99 · up 39%",
+      "detail": "Sold median $55.50 \u00b7 was $39.99 \u00b7 up 39%",
       "popId": "yellowjackets-misty-1451"
     },
     {
@@ -467,7 +467,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $19.99 · was $14.86 · up 35%",
+      "detail": "Sold median $19.99 \u00b7 was $14.86 \u00b7 up 35%",
       "popId": "solo-leveling-iron-2021"
     },
     {
@@ -478,7 +478,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $12.99 · was $9.99 · up 30%",
+      "detail": "Sold median $12.99 \u00b7 was $9.99 \u00b7 up 30%",
       "popId": "funko-com-daredevil-tv-punisher-w-dd-mask-11094"
     },
     {
@@ -489,7 +489,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $32.00 · was $25.25 · up 27%",
+      "detail": "Sold median $32.00 \u00b7 was $25.25 \u00b7 up 27%",
       "popId": "gears-of-war-skorge-477"
     },
     {
@@ -500,7 +500,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $110.00 · was $88.75 · up 24%",
+      "detail": "Sold median $110.00 \u00b7 was $88.75 \u00b7 up 24%",
       "popId": "hannibal-will-graham-147"
     },
     {
@@ -511,7 +511,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $47.97 · was $82.95 · down 42%",
+      "detail": "Sold median $47.97 \u00b7 was $82.95 \u00b7 down 42%",
       "popId": "one-piece-monkey-d-luffy-thriller-bark-2375"
     },
     {
@@ -522,7 +522,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $8.00 · was $12.99 · down 38%",
+      "detail": "Sold median $8.00 \u00b7 was $12.99 \u00b7 down 38%",
       "popId": "black-clover-asta-1099"
     },
     {
@@ -533,7 +533,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "move",
-      "detail": "Sold median $20.00 · was $32.00 · down 38%",
+      "detail": "Sold median $20.00 \u00b7 was $32.00 \u00b7 down 38%",
       "popId": "coraline-coraline-patchwork-2120"
     },
     {
@@ -544,18 +544,18 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $17.59 (not sold) · sold median $69.96",
+      "detail": "eBay ask $17.59 (not sold) \u00b7 sold median $69.96",
       "popId": "stranger-things-max-at-cemetery-1544"
     },
     {
       "id": "0885621f0b25",
-      "title": "Altaïr #901",
+      "title": "Alta\u00efr #901",
       "url": "https://www.ebay.com/sch/i.html?_nkw=Funko%20Pop%20Alta%C3%AFr%20901",
       "source": "eBay ask",
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $16.49 (not sold) · sold median $66.00",
+      "detail": "eBay ask $16.49 (not sold) \u00b7 sold median $66.00",
       "popId": "assassin-s-creed-altair-901"
     },
     {
@@ -566,7 +566,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $3.00 (not sold) · sold median $11.88",
+      "detail": "eBay ask $3.00 (not sold) \u00b7 sold median $11.88",
       "popId": "funko-com-alexa-bliss-61464"
     },
     {
@@ -577,7 +577,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $2.49 (not sold) · sold median $9.99",
+      "detail": "eBay ask $2.49 (not sold) \u00b7 sold median $9.99",
       "popId": "chucky-phantom-chucky-1721"
     },
     {
@@ -588,7 +588,7 @@
       "publishedAt": "2026-11-28T17:00:00.000Z",
       "image": null,
       "kind": "deal",
-      "detail": "eBay ask $2.00 (not sold) · sold median $7.97",
+      "detail": "eBay ask $2.00 (not sold) \u00b7 sold median $7.97",
       "popId": "demon-slayer-yahaba-1410"
     }
   ]
