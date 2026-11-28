@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-27T13:37:48.416Z",
+  "updatedAt": "2026-11-28T13:36:11.592Z",
   "items": [
+    {
+      "id": "c98a916f995d",
+      "title": "Fast & Furious returns to Pop! Rides with Dom's '70 Charger and '87 Buick Grand National and Letty's '66 Stingray, #163–#165",
+      "url": "https://toynewsi.com/274-67573",
+      "source": "ToyNewsI",
+      "publishedAt": "2026-11-27T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Three Fast & Furious Super Deluxe Pop! Rides: Dom with his 1970 Dodge Charger #163 ($34.99 on Funko.com), Dom with the 1987 Buick Grand National #164 and Letty with her 1966 Corvette Stingray #165; US pre-orders opened Nov. 27 at Entertainment Earth and Amazon.",
+      "verified_by": [
+        "https://funko.com/pop-rides-super-deluxe-dom-with-charger/97140.html",
+        "https://www.funkopop.cl/post/funko-pop-rapidos-y-furiosos-rides-dom-letty-chile-2026"
+      ],
+      "origin": "web"
+    },
     {
       "id": "2f270bdc8ea8",
       "title": "Black Torch gets its first Funko Pop! wave: Jiro Azuma (with chase), Rago, Ichika and Reiji, plus a Funko Shop-exclusive Amagi",
@@ -54,6 +72,23 @@
         "https://x.com/OriginalFunko/status/2125635844606247258"
       ],
       "origin": "x"
+    },
+    {
+      "id": "41a2f09ee061",
+      "title": "Voltron's five lions get their own Pop! Television figures, #1994–#1998",
+      "url": "https://www.funkopop.cl/post/funko-pop-voltron-cinco-leones-black-lion-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "cover": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "summary": "Classic Voltron: Defender of the Universe lions as single Pops: Blue Lion #1994, Black Lion #1995, Red Lion #1996, Green Lion #1997 and Yellow Lion #1998, $14.99 each, US pre-orders from Nov. 25 at retailers like Entertainment Earth and Amazon, arriving about January 2027.",
+      "verified_by": [
+        "https://www.toysarmy1999.it/2026/11/24/voltron-in-arrivo-in-nuovi-funko-pop-dei-cinque-leoni/"
+      ],
+      "origin": "web"
     },
     {
       "id": "c8719a174464",
