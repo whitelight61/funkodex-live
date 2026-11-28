@@ -1,6 +1,18 @@
 {
-  "fetchedAt": "2026-11-28T13:37:08.055Z",
+  "fetchedAt": "2026-11-28T13:39:05.699Z",
   "news": [
+    {
+      "id": "c98a916f995d",
+      "title": "Fast & Furious returns to Pop! Rides with Dom's '70 Charger and '87 Buick Grand National and Letty's '66 Stingray, #163–#165",
+      "url": "https://toynewsi.com/274-67573",
+      "source": "ToyNewsI",
+      "publishedAt": "2026-11-27T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
+    },
     {
       "id": "2f270bdc8ea8",
       "title": "Black Torch gets its first Funko Pop! wave: Jiro Azuma (with chase), Rago, Ichika and Reiji, plus a Funko Shop-exclusive Amagi",
@@ -36,6 +48,18 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/338e41ecd9b9b848.jpg"
+    },
+    {
+      "id": "41a2f09ee061",
+      "title": "Voltron's five lions get their own Pop! Television figures, #1994–#1998",
+      "url": "https://www.funkopop.cl/post/funko-pop-voltron-cinco-leones-black-lion-chile-2026",
+      "source": "Funko Pop Chile",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "image": null,
+      "kind": "news",
+      "detail": null,
+      "popId": null,
+      "cover": null
     },
     {
       "id": "c8719a174464",
@@ -276,30 +300,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/29e9daff1cd52877.jpg"
-    },
-    {
-      "id": "1df361fe3ffa",
-      "title": "Dunk and Egg from A Knight of the Seven Kingdoms get Funko Pop! figures",
-      "url": "https://collider.com/a-knight-of-the-seven-kingdoms-dunk-egg-funko-pops/",
-      "source": "Collider",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "kind": "news",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/d10d74191124a4fb.jpg"
-    },
-    {
-      "id": "9e95fb2baf4e",
-      "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",
-      "url": "https://comiccrusaders.com/collectibles/funko-space-jam-michael-jordan-pop-movies-2026/",
-      "source": "Comic Crusaders",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "kind": "drop",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/c3bd70ba235cfac8.jpg"
     }
   ],
   "drops": [
@@ -434,18 +434,6 @@
       "detail": null,
       "popId": null,
       "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/29e9daff1cd52877.jpg"
-    },
-    {
-      "id": "9e95fb2baf4e",
-      "title": "Funko sends Michael Jordan back up for Space Jam’s game-winning shot",
-      "url": "https://comiccrusaders.com/collectibles/funko-space-jam-michael-jordan-pop-movies-2026/",
-      "source": "Comic Crusaders",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "image": null,
-      "kind": "drop",
-      "detail": null,
-      "popId": null,
-      "cover": "https://raw.githubusercontent.com/whitelight61/funkodex-live/main/covers/c3bd70ba235cfac8.jpg"
     }
   ],
   "moves": [
